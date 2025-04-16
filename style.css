@@ -1,0 +1,51 @@
+body{
+  background: linear-gradient(to right, rgba(25, 38, 83, 1), rgba(19, 29, 65, 1));
+
+}
+li {
+  color: white;
+  opacity: 80%;
+  font-size: 20px;
+  list-style: none;
+  float: left;
+  margin-inline: 20px;
+  margin-left: 20px;
+  font-family: 'source sans pro', sans-serif;
+  margin-top: 15px;
+
+}
+.Home {
+  color: white;
+  opacity: 100%;
+}
+p{
+  color: white;
+  opacity:100%
+}
+.Nol{
+  background-color: #ff5c00;
+  color: white;
+  padding: 15px 10px;
+  border-radius: 50px;
+  cursor: pointer;
+  border: none;
+  line-height: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'poppins', sans-serif;
+  margin-top: 35px;
+  box-shadow: 0 4px 10px rgba(113, 175, 242, 0.4);
+}
+
+.Sign {
+  border-radius: 10px;
+  font-family:'source sans pro', sans-serif;
+  background-color: rgba(128, 128, 128, 0.3);
+  font-weight: 550;
+  border: none;
+  color: white;
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+  margin-top: 23px;
+}
